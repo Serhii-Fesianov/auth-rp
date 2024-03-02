@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auth-rp/static/css/main.7acaea2f.css",
+    "main.js": "/auth-rp/static/js/main.07d3183d.js",
+    "index.html": "/auth-rp/index.html",
+    "main.7acaea2f.css.map": "/auth-rp/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/auth-rp/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
